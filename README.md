@@ -21,45 +21,30 @@ The dashboard converts raw ride data into interactive visuals and KPIs that supp
 
 ---
 
-## 📊 Dashboard Pages
+## 📸 Dashboard Screenshots
 
-### 1️⃣ Overview Dashboard
-- Total Bookings, Completed, Cancelled, and Incomplete Rides  
-- Total Revenue, Average Distance, Total Distance  
-- Bookings by Time Slot  
-- Vehicle-wise performance  
-- Top Pickup and Drop Locations  
-
-### 2️⃣ Financial Performance Dashboard
-- Total Revenue and Average Fare  
-- Revenue by Payment Method  
-- Revenue by Time Slot  
-- Gross Profit Margin by Vehicle Type  
-- Top Revenue-Generating Locations and Customers  
-
-### 3️⃣ Time Analysis Dashboard
-- Bookings by Day of Week  
-- Hour-wise Booking Heatmap  
-- Peak Booking Hour  
-- Average Pickup Time (VTAT) and Ride Time  
-- "No Driver Found" analysis by time slot  
-
-### 4️⃣ Cancellation Analysis Dashboard
-- Cancelled Rides by Customer and Driver  
-- Cancellation Trends by Hour and Time Slot  
-- Customer and Driver Cancellation Reasons  
-- Vehicle-wise Cancellation Analysis  
+### 🏠 Home Page
+![Home Page](Dhas_Pages/Home%20Page.png)
 
 ---
 
-## 🧠 Key Insights
+### 📊 Overview Dashboard
+![Overview Dashboard](Dhas_Pages/Overview%20Page.png)
 
-- Evening hours (17:00–21:00) have the highest ride demand and cancellations  
-- Driver cancellations are higher than customer cancellations  
-- "No Driver Found" is a major contributor to incomplete rides  
-- UPI is the most preferred payment method  
-- Auto and Go Mini vehicle types show high booking volume  
-- Ride completion efficiency directly impacts revenue  
+---
+
+### 💰 Financial Performance Dashboard
+![Financial Performance](Dhas_Pages/Financial%20Performance.png)
+
+---
+
+### ⏱ Time Analysis Dashboard
+![Time Analysis](Dhas_Pages/Time%20Analysis.png)
+
+---
+
+### ❌ Cancellation Analysis Dashboard
+![Cancellation Analysis](Dhas_Pages/Cancellation%20Analysis.png)
 
 ---
 
@@ -80,7 +65,6 @@ The dashboard converts raw ride data into interactive visuals and KPIs that supp
 - Creation of DAX measures for KPIs and time-based analysis  
 
 ---
-
 
 ## 🚀 How to Use the Dashboard
 
@@ -107,6 +91,5 @@ This project demonstrates the effective use of Power BI for analyzing ride-haili
 ---
 
 ## 👤 Author
-**Rupesh Darpe**  
 
-
+**Rupesh Darpe**
